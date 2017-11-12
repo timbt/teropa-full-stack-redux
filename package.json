@@ -1,0 +1,20 @@
+{
+  "name": "teropa-full-stack-redux",
+  "version": "1.0.0",
+  "description": "An implementation of the live vote application from the Teropa React/Redux tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timbt/teropa-full-stack-redux.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timbt/teropa-full-stack-redux/issues"
+  },
+  "homepage": "https://github.com/timbt/teropa-full-stack-redux#readme"
+}
