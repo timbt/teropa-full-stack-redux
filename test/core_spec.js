@@ -40,8 +40,7 @@ describe('application logic', () => {
         entries: List.of('Sunshine')
       }));
     });
-    
-  });
 
+  });
 
 });
