@@ -1,2 +1,2 @@
 # teropa-full-stack-redux
-An implementation of the live vote application from the Teropa React/Redux tutorial
+Backend implementation of the live vote application from the [Teropa React/Redux tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html#introducing-the-redux-store).
